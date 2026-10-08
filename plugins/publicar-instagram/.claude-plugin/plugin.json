@@ -1,0 +1,12 @@
+{
+  "name": "publicar-instagram",
+  "displayName": "Publicar no Instagram",
+  "description": "Publica no Instagram pela API oficial da Meta, direto do Claude Code: foto, carrossel e Reels. Guia passo a passo do token e configuração automática da conta. Gratuito, da JurisLabs (@vitortempone).",
+  "version": "1.0.0",
+  "author": {
+    "name": "JurisLabs",
+    "url": "https://www.jurislabs.com.br"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["instagram", "meta", "graph-api", "redes-sociais", "carrossel", "reels", "publicar"]
+}
